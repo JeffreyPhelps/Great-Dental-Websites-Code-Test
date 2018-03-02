@@ -4,7 +4,7 @@ Example code test for Great Dental Websites - [Site Link](https://jeffreyphelps.
 ## Example Image
 
 ![Screen shot](GDWCodeTest.jpg)
-Index Page
+Example Image
 
 ## Technologies used
 - HTML5
