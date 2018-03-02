@@ -1,6 +1,7 @@
 /* Front-End Code Test for Great Dental Websites 
     Jeffrey Phelps - 720-218-4500 */
 
+/* Page Header */
 #header {
     height: 125px;
     width: 110%;
@@ -16,6 +17,7 @@ h2 {
     padding: 50px 0 0 5px;
 }
 
+/* Page Body */
 #container {
     margin-left: -15px;
 }
@@ -29,6 +31,7 @@ h2 {
     float: left;
 }
 
+/* Page Footer */
 #footer {
     height: 160px;
     width: 110%;
@@ -50,6 +53,7 @@ span {
     font-size: 1.5em;
 }
 
+/* Responsive Adjustments */
 @media screen and (max-width:1139px) {
 
     #box4 {
