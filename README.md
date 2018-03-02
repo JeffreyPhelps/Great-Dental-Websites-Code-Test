@@ -1,10 +1,10 @@
 # Great Dental Websites Code Test
 Completed code test - [Live Site Link](https://jeffreyphelps.github.io/Great-Dental-Websites-Code-Test/)
 
-## Example Image
+## Example Image to Replicate
 
 ![Screen shot](GDWCodeTest.jpg)
-Example Image to Replicate
+Example Image
 
 ## Technologies Used
 - HTML5
