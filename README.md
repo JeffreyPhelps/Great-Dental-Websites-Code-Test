@@ -6,6 +6,8 @@ Completed code test - [Live Site Link](https://jeffreyphelps.github.io/Great-Den
 ![Screen shot](GDWCodeTest.jpg)
 Example Image
 
+
+
 ## Technologies Used
 - HTML5
 - CSS3
