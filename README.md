@@ -17,5 +17,5 @@ Index Page
 
 ## Authors
 
-* **Jeffrey Phelps** - *HTML5/CSS3* - [Jeffrey Phelps](https://github.com/JeffreyPhelps)
+* **Jeffrey Phelps** - *HTML5/CSS3/Bootstrap* - [Jeffrey Phelps](https://github.com/JeffreyPhelps)
 
