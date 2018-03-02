@@ -49,3 +49,11 @@ h3 {
 span {
     font-size: 1.5em;
 }
+
+@media screen and (max-width:1139px) {
+
+    #box4 {
+        margin-bottom: 180px;
+    }
+    
+}
