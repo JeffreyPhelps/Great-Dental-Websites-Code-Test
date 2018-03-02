@@ -6,7 +6,7 @@ Example code test for Great Dental Websites - [Live Site Link](https://jeffreyph
 ![Screen shot](GDWCodeTest.jpg)
 Example Image
 
-## Technologies used
+## Technologies Used
 - HTML5
 - CSS3
 - Bootstrap - https://getbootstrap.com/
